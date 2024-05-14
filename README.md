@@ -7,7 +7,7 @@
 - Data cleaning and preprocessing: - The datasets must be cleaned and preprocessed to ensure that they are consistent and complete. This may involve removing outliers, converting data to a common format, and filling in missing values.
 - Data analysis: - The data can then be analyzed to identify trends and patterns in supply chain management.
 #### -Technology Stack:
-- **Database:** Excel, MySQL
+- **Database:** Excel, MySQL, Python
 - **BI Tools used:** Microsoft Power Bi, Tableau and Google Looker Studio
 - **Deployment Tools:** Power Bi and Tableau
 #### -Business Benefits:
